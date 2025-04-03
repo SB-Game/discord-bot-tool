@@ -1,0 +1,45 @@
+SB Games Open License
+
+Copyright (c) 2023-2025 SB Games Team
+Unofficial Name: SB Games
+Non-profit organization, not registered in any region
+
+1.License Permissions
+
+Under this license, any individual or organization may freely obtain, copy, modify, merge, publish, distribute, and sublicense copies of this software and its documentation, provided that the following conditions are met:
+
+Attribution Requirement: When using, modifying, or distributing the software, both the original authors ("SB Games Team" or "SB Games") and any subsequent contributors must be prominently credited.
+
+Open Source Redistribution: This software may be freely shared, modified, and redistributed under the same open license terms. Modified versions must clearly indicate the changes made and retain this license.
+
+Joint Copyright Ownership: The original authors and any subsequent contributors both jointly own the copyright of modified versions of the software. Any modifications do not invalidate the original authorship claim.
+
+Liability Clause: Any responsibility, including legal or financial, arising from the use, modification, or redistribution of modified versions shall solely rest on the modifying author.
+
+2.Prohibited Actions
+
+Any copying, modification, merging, publishing, or distributing of the software is prohibited unless it adheres to Section 1. The following uses of this software are explicitly forbidden:
+
+Criminal activities.
+
+The development or distribution of malicious software, viruses, or other programs that endanger computer security.
+
+Activities promoting hatred, violence, discrimination, or other inappropriate speech.
+
+3.Public Displays for Specific Purposes
+
+The following activities require additional authorization and a license code:
+
+Specific Purpose Display: If this software or its content is used for reporting, assignments, presentations, conferences, online platforms, or other public media with a specific purpose (such as academic presentations, commercial promotion, publicity, educational purposes, etc.), additional authorization must be obtained, and a valid license code must be provided to verify the authorized status.
+
+Additional Authorization: This authorization must be confirmed by the licensor, and a valid license code must be provided to verify the authorization.
+
+You may check the validity of the license code on the website.
+
+4.Disclaimer
+
+This software is provided "as-is" without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. Under no circumstances, whether in contract, tort, or any other legal theory, shall the authors or copyright holders be liable for any damages arising from the use of this software, even if they were informed of the possibility of such damages. SB Games Team is a non-profit organization and is not registered in any region. Therefore, any economic, legal, or other responsibilities arising from the use of this software shall be borne by the user.
+
+5.Dispute Resolution
+
+SB Games Team does not bear any responsibility for disputes or legal liabilities arising from the use, modification, or distribution of this software. As long as the public content is compliant with the laws of the location where SB Games Team resides and the hosting platform (e.g., GitHub), SB Games Team will not bear any responsibility for such content.
